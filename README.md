@@ -68,3 +68,7 @@ Cross-Validation
 Model Serialization
         ↓
 Prediction on New Customers
+
+## Project Status
+
+Portfolio project completed and deployed to GitHub.
