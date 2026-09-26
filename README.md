@@ -72,3 +72,13 @@ Prediction on New Customers
 ## Project Status
 
 Portfolio project completed and deployed to GitHub.
+
+## Model Details
+
+The project uses Logistic Regression with StandardScaler inside a scikit-learn Pipeline.
+
+The model predicts:
+- Churn (1)
+- No Churn (0)
+
+The trained pipeline is saved using Joblib.
